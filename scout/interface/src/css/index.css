@@ -4,14 +4,14 @@
 
 /* Image Settings */
 /* .bg {
-  background: url(../img/chaos_bubble.jpg);
+  background: url(../img/community_chaos.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 } */
 
 /* Pattern Settings */
 .bg {
-  background: url(../img/interlaced.png);
+  background: url(../img/scout_pattern.png);
   background-size: auto;
   background-repeat: repeat;
 }
