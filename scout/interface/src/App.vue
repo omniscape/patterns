@@ -2,8 +2,8 @@
   <div class="bg min-w-full z-10">
     <div class="container z-20 fixed bg-black opacity-50 min-h-screen max-h-screen min-w-full max-w-full">
     </div>
-    <div class="container z-50 relative flex justify-between min-h-screen max-h-screen min-w-full max-w-full">
-      <div class="flex flex-col justify-around ml-12">
+    <div class="container flex flex-row z-30 relative flex justify-between min-h-screen max-h-screen min-w-full max-w-full">
+      <div class="flex flex-col h-auto justify-around ml-12">
         <div class="">
           <h1 class="align-middle text-5xl text-gray-100 font-medium leading-none mb-4">{{ message }}</h1>
           <p class="max-w-lg text-lg text-gray-400 leading-relaxed mb-12">
@@ -19,12 +19,12 @@
           </div>
         </div>
       </div>
-      <div class="self-end px-12 py-4">
-        <p class="text-lg text-gray-500">
-          Explore the
-          <a href="https://trailblaze.pro" target="_blank" class="font-semibold text-gray-400 tracking-wider">trailblaze</a>
-        </p>
-      </div>
+    </div>
+    <div class="z-40 right-0 bottom-0 fixed px-12 py-4">
+      <p class="text-lg text-gray-500">
+        Explore the
+        <a href="https://trailblaze.pro" target="_blank" class="font-semibold text-gray-400 tracking-wider">trailblaze</a>
+      </p>
     </div>
   </div>
 </template>
