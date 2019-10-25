@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Image Settings */
+/* .bg {
+  background: url(../img/chaos_bubble.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+} */
+
+/* Pattern Settings */
+.bg {
+  background: url(../img/interlaced.png);
+  background-size: auto;
+  background-repeat: repeat;
+}
