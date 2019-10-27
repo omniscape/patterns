@@ -3,15 +3,15 @@
 @tailwind utilities;
 
 /* Image Settings */
-/* .bg {
+.bg {
   background: url(../img/community_chaos.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-} */
+}
 
 /* Pattern Settings */
-.bg {
-  background: url(../img/scout_pattern.png);
+/* .bg {
+  background: url(../img/x.png);
   background-size: auto;
   background-repeat: repeat;
-}
+} */
